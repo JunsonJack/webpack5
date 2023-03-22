@@ -1,0 +1,15 @@
+div, span, table, tr, td, input {
+  margin: 0;
+  padding: 0;
+}
+
+.test {
+  width: 100px;
+  height: 100px;
+  background-color: #ccc;
+}
+.test .first {
+  background-color: deeppink;
+}
+
+/*# sourceMappingURL=ouput.css.map */
